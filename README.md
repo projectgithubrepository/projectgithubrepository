@@ -1,9 +1,9 @@
 Hi there 👋 I'm Daniel | Olá, eu sou o Daniel
 
 - 🔭 I’m currently working on Mercadata Selling Institute
-- 🌱 I’m currently learning socket IO
+- 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on React Js
-- 🤔 I’m looking for help with axios
+- 🤔 I’m looking for help with Angular
 - 💬 Ask me about CSS
 - 📫 How to reach me: danieldev2021@outlook.com |  LinkedIn
 - ⚡ Fun fact: I'm looking for networking and stuff
