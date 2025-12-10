@@ -30,6 +30,7 @@ Strong background in data cleaning, root-cause analysis, API investigation, and 
 ## 🛠️ Tech Stack & Tools
 
 ### **Languages & Databases**
+- ⚡ JavaScript
 - 🐍 Python  
 - 🧮 SQL  
 - 🗄️ Postgres  
