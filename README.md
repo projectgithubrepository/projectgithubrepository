@@ -5,11 +5,13 @@ QA Analyst | Technical Tester | SQL & Data Integrity Specialist
 
 I am a Technical QA Analyst with nearly 6 years of experience in the IT sector, specializing in Software Quality Assurance for high-complexity systems. My background in L3 support and data analysis gives me a unique "Gray Box" perspective, allowing me to validate not just the UI, but the underlying data and API integrity.
 
-🛠️ What I Do:
--Technical Testing: Expert in Functional, Integration, and Regression testing, focusing on complex business rules and ERP environments.
--Data Validation: Advanced use of SQL (Postgres) and MongoDB to ensure data consistency and perform deep root-cause analysis.
--Automation & APIs: Developing and maintaining E2E test scripts with Cypress and validating RESTful services via Postman.
--Analytical Mindset: I leverage my analytical foundation to identify edge cases, document detailed bug reports in ClickUp/Jira, and bridge the gap between business requirements and engineering.
+---
+
+## 🛠️ What I Do:
+- Technical Testing: Expert in Functional, Integration, and Regression testing, focusing on complex business rules and ERP environments.
+- Data Validation: Advanced use of SQL (Postgres) and MongoDB to ensure data consistency and perform deep root-cause analysis.
+- Automation & APIs: Developing and maintaining E2E test scripts with Cypress and validating RESTful services via Postman.
+- Analytical Mindset: I leverage my analytical foundation to identify edge cases, document detailed bug reports in ClickUp/Jira, and bridge the gap between business requirements and engineering.
 
 I am passionate about "Quality-First" culture and dedicated to ensuring that software is not only bug-free but reliable and high-performing.
 
