@@ -1,11 +1,20 @@
 # 🚀 Open to Work
 
 ## 👋 About Me
-Data Scientist with a solid analytical foundation and hands-on experience working with SQL databases such as Postgres and MongoDB. Proficient in data investigation, validation, debugging, and collaborating across teams to deliver actionable insights.
+QA Analyst | Technical Tester | SQL & Data Integrity Specialist
 
-Skilled at transforming raw data into structured, meaningful information to support data-driven decision-making. Experienced in Python scripting for automation, data manipulation, event tracking validation, and requirements analysis.
+I am a Technical QA Analyst with nearly 6 years of experience in the IT sector, specializing in Software Quality Assurance for high-complexity systems. My background in L3 support and data analysis gives me a unique "Gray Box" perspective, allowing me to validate not just the UI, but the underlying data and API integrity.
 
-Strong background in data cleaning, root-cause analysis, API investigation, and applying statistical reasoning with an experimentation mindset. Competent in quality assurance, gathering requirements, and product support to ensure robust and reliable solutions.
+🛠️ What I Do:
+Technical Testing: Expert in Functional, Integration, and Regression testing, focusing on complex business rules and ERP environments.
+
+Data Validation: Advanced use of SQL (Postgres) and MongoDB to ensure data consistency and perform deep root-cause analysis.
+
+Automation & APIs: Developing and maintaining E2E test scripts with Cypress and validating RESTful services via Postman.
+
+Analytical Mindset: I leverage my analytical foundation to identify edge cases, document detailed bug reports in ClickUp/Jira, and bridge the gap between business requirements and engineering.
+
+I am passionate about "Quality-First" culture and dedicated to ensuring that software is not only bug-free but reliable and high-performing.
 
 ---
 
